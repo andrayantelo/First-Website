@@ -1,3 +1,23 @@
+body {
+    background-color:grey;
+}
+
 h3 {
     text-align:center;
 }
+
+img {
+    width:128px;
+    height:200x;
+    float:right;
+}
+
+p {
+    text-align:left;
+    
+}
+
+p ul li{
+    color:green;
+}
+
