@@ -10,6 +10,7 @@ div {
     margin-top: -20px;
     margin-bottom: 10px;
     background-color:yellow;
+    
 }
 
 .left {
@@ -32,18 +33,17 @@ div {
     width: 100px;
     
 }
-/*
+
 .right {
     float: right;
-    margin-left: 40%;
-    margin-right: 5px;
-    margin-top: 50px;
-    color: blue;
+    position:relative;
+    background-color: blue;
     position: relative;
-    width: 88%;
-    height: 90%;
+    margin-top: 50px;
+    width: 1300px;
+    height: 800px;
 }
-
+/*
 
 #footer {
     clear: both;
