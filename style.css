@@ -5,7 +5,7 @@ div {
 #header {
     position:fixed;
     z-index: 1;
-    width: 97.5%;
+    width: 99%;
     height: 60px;
     margin-top: -20px;
     margin-bottom: 10px;
@@ -37,20 +37,19 @@ div {
 .right {
     float: right;
     position:relative;
-    background-color: blue;
+    background-color: lightblue;
     position: relative;
     margin-top: 50px;
     width: 1300px;
     height: 800px;
 }
-/*
+
 
 #footer {
     clear: both;
-    width: 85%;
-    background-color:green;
     position: relative;
-    float:right;
+    background-color:green;
+    height: 60px;
     
 }
-*/
+
