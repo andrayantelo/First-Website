@@ -2,8 +2,9 @@ body {
     background-color:grey;
 }
 
-h3 {
+#title {
     text-align:center;
+    color:#0080ff;
 }
 
 img {
@@ -17,7 +18,11 @@ p {
     
 }
 
-p ul li{
-    color:green;
+ul li{
+    color:red;
 }
 
+.intro {
+    text-align:left;
+    border:2px dashed #84ffaa;
+}
