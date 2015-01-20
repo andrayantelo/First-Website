@@ -9,7 +9,7 @@ div {
     height: 60px;
     margin-top: -20px;
     margin-bottom: 10px;
-    background-color:yellow;
+    background-color: #69D2E7;
     
 }
 
@@ -20,27 +20,27 @@ div {
     margin-bottom: 10px;
     height: 800px;
     width: 150px;
-    background-color:red;
+    background-color: #A7DBD8;
 }
-
+/*
 .dates {
     
     position: absolute;
-    background-color:purple;
+    background-color: #E0E4CC;
     margin-top: 50px;
     margin-left: 160px;
     height: 800px;
     width: 100px;
     
-}
+}*/
 
 .right {
     float: right;
     position:relative;
-    background-color: lightblue;
+    background-color: #E0E4CC;
     position: relative;
     margin-top: 50px;
-    width: 1300px;
+    width: 1410px;
     height: 800px;
 }
 
@@ -48,7 +48,7 @@ div {
 #footer {
     clear: both;
     position: relative;
-    background-color:green;
+    background-color: #F38630;
     height: 60px;
     
 }
