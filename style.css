@@ -47,17 +47,7 @@ div {
     width: 150px;
     background-color: #A7DBD8;
 }
-/*
-.dates {
-    
-    position: absolute;
-    background-color: #E0E4CC;
-    margin-top: 50px;
-    margin-left: 160px;
-    height: 800px;
-    width: 100px;
-    
-}*/
+
 
 .right {
     float: right;
@@ -90,11 +80,18 @@ div {
 }
 #education .university .secondcolumn {
     padding-left: 50px;
-    color:left;
+    padding-right: 10px;
 }
 
 #education .university .bottomrows td{
     padding-top: 20px;
-    padding-right: 10px;
-    padding-left; 10px;
 }
+
+#education .university .bottomrows .thirdcolumn {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+
+
+
