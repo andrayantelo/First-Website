@@ -78,13 +78,17 @@ div {
     
 }
 
-.university {
+.university td {
     /*border-collapse: separate;*/
     padding-right: 10px;
+    padding-left: 10px;
     
 }
 
-.secondcolumn {
+#education .university .firstcolumn {
+    padding-left: 0px;
+}
+#education .university .secondcolumn {
     padding-left: 30px;
-    padding-right: 10px;
+    color:left;
 }
