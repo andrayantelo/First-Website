@@ -55,10 +55,10 @@ div {
     background-color: #E0E4CC;
     position: relative;
     margin-top: 50px;
+    margin-left: 5px;
     width: 1410px;
     height: 1600px;
 }
-
 
 #footer {
     clear: both;
@@ -96,5 +96,11 @@ div {
    padding-top: 15px;
 }
 
+h2 {
+    padding-left: 15px;
+}
 
+.section {
+    padding-left: 15px;
+}
 
