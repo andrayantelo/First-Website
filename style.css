@@ -1,3 +1,7 @@
+body {
+    font-family: Book Antiqua, Arial;
+}
+
 div {
     border-radius: 5px;
 }
@@ -13,26 +17,37 @@ div {
     
 }
 
+#name {
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 22px;
+    color: #ffffff;
+    position: absolute;
+}
+
+#email {
+    float: right;
+    margin-right: 15px;
+    margin-top: 20px;
+    
+}
+
+#header a {
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .left {
     float: left;
     position: relative;
     margin-top: 50px;
     margin-bottom: 10px;
-    height: 800px;
+    height: 1200px;
     width: 150px;
     background-color: #A7DBD8;
 }
-/*
-.dates {
-    
-    position: absolute;
-    background-color: #E0E4CC;
-    margin-top: 50px;
-    margin-left: 160px;
-    height: 800px;
-    width: 100px;
-    
-}*/
+
 
 .right {
     float: right;
@@ -41,7 +56,7 @@ div {
     position: relative;
     margin-top: 50px;
     width: 1410px;
-    height: 800px;
+    height: 1200px;
 }
 
 
@@ -52,4 +67,30 @@ div {
     height: 60px;
     
 }
+
+.subsection td {
+    border-collapse: collapsed;
+    padding-right: 10px;
+    padding-left:10px;
+}
+
+.firstcolumn {
+    padding-left: 0px;
+}
+
+
+.secondcolumn {
+    padding-left: 50px;
+    padding-right: 10px;
+}
+
+.bottomrows td {
+    padding-top: 20px;
+}
+
+.duties li {
+   padding-top: 15px;
+}
+
+
 
