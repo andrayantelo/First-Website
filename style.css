@@ -68,30 +68,29 @@ div {
     
 }
 
-.university td {
-    border-collapse: collapse;
+.subsection td {
+    border-collapse: collapsed;
     padding-right: 10px;
-    padding-left: 10px;
-    
+    padding-left:10px;
 }
 
-#education .university .firstcolumn {
+.firstcolumn {
     padding-left: 0px;
 }
-#education .university .secondcolumn {
+
+
+.secondcolumn {
     padding-left: 50px;
     padding-right: 10px;
 }
 
-#education .university .bottomrows td{
+.bottomrows td {
     padding-top: 20px;
 }
 
-#education .university .bottomrows .thirdcolumn {
-    padding-right: 10px;
-    padding-left: 10px;
+.duties li {
+   padding-top: 15px;
 }
-
 
 
 
