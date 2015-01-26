@@ -43,7 +43,7 @@ div {
     position: relative;
     margin-top: 50px;
     margin-bottom: 10px;
-    height: 1200px;
+    height: 2800px;
     width: 150px;
     background-color: #A7DBD8;
 }
@@ -55,10 +55,10 @@ div {
     background-color: #E0E4CC;
     position: relative;
     margin-top: 50px;
+    margin-left: 5px;
     width: 1410px;
-    height: 1200px;
+    height: 2800px;
 }
-
 
 #footer {
     clear: both;
@@ -69,9 +69,12 @@ div {
 }
 
 .subsection td {
-    border-collapse: collapsed;
     padding-right: 10px;
     padding-left:10px;
+}
+
+.subsection {
+    border-collapse: separate;
 }
 
 .firstcolumn {
@@ -86,11 +89,27 @@ div {
 
 .bottomrows td {
     padding-top: 20px;
+    padding-right: 1px;
 }
 
 .duties li {
    padding-top: 15px;
 }
 
+h2 {
+    padding-left: 15px;
+}
 
+.section {
+    padding-left: 15px;
+    margin-top: 20px;
+}
 
+.languages li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#text {
+    margin-top: 200px;
+}
