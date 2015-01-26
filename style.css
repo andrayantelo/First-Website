@@ -65,7 +65,13 @@ div {
     position: relative;
     background-color: #F38630;
     height: 60px;
+    text-align: center;
+    color: #ffffff
     
+}
+
+#footertext {
+    padding-top: 20px;
 }
 
 .subsection td {
@@ -113,3 +119,6 @@ h2 {
 #text {
     margin-top: 200px;
 }
+
+
+
