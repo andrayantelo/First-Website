@@ -43,7 +43,7 @@ div {
     position: relative;
     margin-top: 50px;
     margin-bottom: 10px;
-    height: 1600px;
+    height: 2800px;
     width: 150px;
     background-color: #A7DBD8;
 }
@@ -57,7 +57,7 @@ div {
     margin-top: 50px;
     margin-left: 5px;
     width: 1410px;
-    height: 1600px;
+    height: 2800px;
 }
 
 #footer {
@@ -102,5 +102,14 @@ h2 {
 
 .section {
     padding-left: 15px;
+    margin-top: 20px;
 }
 
+.languages li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#text {
+    margin-top: 200px;
+}
